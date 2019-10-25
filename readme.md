@@ -40,7 +40,7 @@ Mediante comando:
 ```json
 {
     "require": {
-        "villca/numeros-en-letras": "v1.2"
+        "villca/numeros-en-letras": "v1.2.1"
     }
 }
 ```
